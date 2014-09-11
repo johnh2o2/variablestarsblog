@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Classifying variable stars in the HAT datasets</title><link href="http://johnh2o2.github.io/variablestarsblog/" rel="alternate"></link><link href="http://johnh2o2.github.io/variablestarsblog/feeds/all.atom.xml" rel="self"></link><id>http://johnh2o2.github.io/variablestarsblog/</id><updated>2014-09-10T00:00:00-04:00</updated><entry><title>A test post</title><link href="http://johnh2o2.github.io/variablestarsblog/blog/2014/09/10/a-test-post/" rel="alternate"></link><updated>2014-09-10T00:00:00-04:00</updated><author><name>John Hoffman</name></author><id>tag:johnh2o2.github.io,2014-09-10:variablestarsblog/blog/2014/09/10/a-test-post/</id><summary type="html">&lt;p&gt;This is a test post.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Classifying variable stars in the HAT datasets</title><link>http://johnh2o2.github.io/variablestarsblog/</link><description></description><atom:link href="http://johnh2o2.github.io/variablestarsblog/feeds/john-hoffman.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 10 Sep 2014 00:00:00 -0400</lastBuildDate><item><title>A test post</title><link>http://johnh2o2.github.io/variablestarsblog/blog/2014/09/10/a-test-post/</link><description>&lt;p&gt;This is a test post.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Do lists&lt;/li&gt;
 &lt;li&gt;Work?&lt;/li&gt;
@@ -355,4 +355,4 @@ In&amp;nbsp;[]:
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="python"></category><category term="test"></category></entry></feed>
+&lt;/div&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Hoffman</dc:creator><pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate><guid>tag:johnh2o2.github.io,2014-09-10:variablestarsblog/blog/2014/09/10/a-test-post/</guid><category>python</category><category>test</category></item></channel></rss>
