@@ -4,7 +4,7 @@
 &lt;li&gt;Do lists&lt;/li&gt;
 &lt;li&gt;Work?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Does code work?&lt;/p&gt;
+&lt;h3&gt;Does code work?&lt;/h3&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
     &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;bar&lt;/span&gt;
 
@@ -12,7 +12,8 @@
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;Does importing ipython notebooks work?&lt;/p&gt;
+&lt;h3&gt;Does importing ipython notebooks work?&lt;/h3&gt;
+&lt;hr /&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
 &lt;div class="prompt input_prompt"&gt;
@@ -355,7 +356,12 @@ In&amp;nbsp;[]:
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;&lt;script type= "text/javascript"&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;For now, it looks like there's some problem with the formatting of IPython notebook's latex, but there shouldn't be any problem with the math rendering done by Pelican.&lt;/p&gt;
+&lt;p&gt;\begin{equation}
+f(x) = \pi\sum_i^{\infty}\frac{i^{(-1)^i}}{i^2!}
+\end{equation}&lt;/p&gt;&lt;script type= "text/javascript"&gt;
     if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
         var mathjaxscript = document.createElement('script');
         mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
