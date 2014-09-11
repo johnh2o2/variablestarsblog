@@ -1,14 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Classifying variable stars in the HAT datasets</title><link href="http://johnh2o2.github.io/variablestarsblog/" rel="alternate"></link><link href="http://johnh2o2.github.io/variablestarsblog/feeds/all.atom.xml" rel="self"></link><id>http://johnh2o2.github.io/variablestarsblog/</id><updated>2014-09-10T00:00:00-04:00</updated><entry><title>A test post</title><link href="http://johnh2o2.github.io/variablestarsblog/blog/2014/09/10/a-test-post/" rel="alternate"></link><updated>2014-09-10T00:00:00-04:00</updated><author><name>John Hoffman</name></author><id>tag:johnh2o2.github.io,2014-09-10:variablestarsblog/blog/2014/09/10/a-test-post/</id><summary type="html">&lt;p&gt;This is a test post.&lt;/p&gt;
-&lt;h3&gt;does math work?&lt;/h3&gt;
-&lt;p&gt;$$ g \in G $$&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Do lists&lt;/li&gt;
-&lt;li&gt;Work?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Does code work?&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
-    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;bar&lt;/span&gt;
-
-&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;numpy&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;array&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="python"></category><category term="test"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Classifying variable stars in the HAT datasets</title><link href="http://johnh2o2.github.io/variablestarsblog/" rel="alternate"></link><link href="http://johnh2o2.github.io/variablestarsblog/feeds/all.atom.xml" rel="self"></link><id>http://johnh2o2.github.io/variablestarsblog/</id><updated>2014-09-11T00:26:55Z</updated></feed>
