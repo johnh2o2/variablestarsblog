@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Classifying variable stars in the HAT datasets</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-09-10T00:00:00+02:00</updated><entry><title>A test post</title><link href="/a-test-post.html" rel="alternate"></link><updated>2014-09-10T00:00:00+02:00</updated><author><name>John Hoffman</name></author><id>tag:,2014-09-10:a-test-post.html</id><summary type="html">&lt;p&gt;This is a test post.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Classifying variable stars in the HAT datasets</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2014-09-10T00:00:00+02:00</updated><entry><title>A test post</title><link href="/a-test-post.html" rel="alternate"></link><updated>2014-09-10T00:00:00+02:00</updated><author><name>John Hoffman</name></author><id>tag:,2014-09-10:a-test-post.html</id><summary type="html">&lt;p&gt;This is a test post.&lt;/p&gt;
 &lt;h3&gt;does math work?&lt;/h3&gt;
 &lt;p&gt;$$ g \in G $$&lt;/p&gt;
 &lt;ul&gt;
